@@ -9,6 +9,11 @@ gcc quine.c -o quine
 ./quine
 ```
 
+```console
+gcc quine2.c -o quine2
+./quine2
+```
+
 What is a quine? https://en.wikipedia.org/wiki/Quine_(computing)
 
 ### license
