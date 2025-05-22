@@ -2,7 +2,9 @@
 
 I got inspired by Yusuke Endoh's quine videos, hopefully I can make a cooler quine at some point.
 
-This is my first quine, not sure if it's the simplest but it definitely doesn't do much.
+These are my first quines, not sure if they are simplest but they definitely don't do much.
+
+quine2.c and quine2.odin work the same
 
 ```console
 gcc quine.c -o quine
@@ -12,6 +14,10 @@ gcc quine.c -o quine
 ```console
 gcc quine2.c -o quine2
 ./quine2
+```
+
+```console
+odin run -file quine2.odin
 ```
 
 What is a quine? https://en.wikipedia.org/wiki/Quine_(computing)
