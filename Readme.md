@@ -1,4 +1,4 @@
-## Simple quine in C
+## Simple quine
 
 I got inspired by Yusuke Endoh's quine videos, hopefully I can make a cooler quine at some point.
 
