@@ -17,7 +17,7 @@ gcc quine2.c -o quine2
 ```
 
 ```console
-odin run -file quine2.odin
+odin run quine2.odin -file
 ```
 
 What is a quine? https://en.wikipedia.org/wiki/Quine_(computing)
