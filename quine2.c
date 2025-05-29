@@ -3,7 +3,7 @@ int main() {
 char *code[] = {
 "#include <stdio.h>",
 "int main() {",
-"char *code = {",
+"char *code[] = {",
 "};",
 "for(int i=0;i<3;i++)puts(code[i]);",
 "for(int i=0;i<sizeof(code)/sizeof(code[0]);i++) {",
